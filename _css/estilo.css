@@ -1,0 +1,33 @@
+#caixa
+{
+width:400px;
+text-align:center;
+}
+
+#caixa fieldset
+{
+display:inline-block;
+}
+
+#tagExibeNumero
+{
+width:100px;
+border-bottom:2px solid gray;
+height:20px;
+text-align:center;
+display:inline-block;
+font-family:arial;
+}
+
+
+.estiloNumber
+{
+/* width:50px; */
+height:10px;
+}
+
+.estiloBt
+{
+display:block;
+margin:15px auto; 
+}
